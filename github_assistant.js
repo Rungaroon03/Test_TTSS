@@ -7,7 +7,7 @@ const app = express();
 const port = 3000;
 
 // GitHub Token 
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = 'GitHub Token';
 
 // Headers Authorization
 const headers = {
