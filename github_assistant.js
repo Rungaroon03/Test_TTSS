@@ -7,7 +7,7 @@ const app = express();
 const port = 3000;
 
 // GitHub Token 
-const GITHUB_TOKEN = 'GitHub Token';
+const GITHUB_TOKEN = 'GitHub Token'; // ใส่ Token ที่ gen มาจาก github
 
 // Headers Authorization
 const headers = {
